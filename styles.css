@@ -1,0 +1,45 @@
+body {
+    background-color: lightskyblue;
+  }
+  
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+  p {
+    font-family: "Arial";
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+  }
+
+  h1 {
+    color: navy;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+  }
+
+  h2 {font-size: 30px;
+    margin-left: 20px;
+    color: chartreuse;}
+
+  h3 {font-size: 30px;
+    margin-left: 200px;}
+
+    body {
+        width: 100%;
+        max-width: 1024px;
+        margin: 0 auto;
+        background-color: lightseagreen;
+        
+    }
+    header,
+    main,
+    footer {
+        background-color: lightskyblue;
+        
+    }
